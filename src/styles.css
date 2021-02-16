@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.modal {
+  width: 90%;
+  margin: auto;
+  z-index: 1;
+  display: none;
+  background-color: rgba(59, 59, 59, 0.288);
+  padding: 20px;
+}
+.input {
+  width: 200px;
+  margin-right: 20px;
+}
+.btn {
+  margin-top: 20px;
+}

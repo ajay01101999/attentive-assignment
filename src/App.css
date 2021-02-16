@@ -1,0 +1,26 @@
+.tasktable{
+  display: flex;
+  margin: auto;
+}
+input{
+  margin: 10px;
+  width: 13%;
+  height: 25px;
+  border-radius: 3px;
+  border: 2px solid black;
+}
+input:focus{
+  border: 2px solid rgb(7, 164, 255);
+}
+select{
+  margin: 10px;
+  width: 13%;
+  height: 30px;
+  border-radius: 3px;
+  border: 2px solid black;
+}
+.btn{
+  margin: 10px;
+  width: 7%;
+  height: 30px;
+}
